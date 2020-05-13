@@ -5,4 +5,5 @@ public class Persoon {
     private int stoel;
     private int stoeld;
     private int stoeldd;
+    private String nummer;
 }
